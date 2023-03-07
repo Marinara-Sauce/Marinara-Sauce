@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Experience
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marinara-Sauce&hide_progress=false&layout=compact)](https://github.com/Marinara-Sauce/github-readme-stats)
 
 
